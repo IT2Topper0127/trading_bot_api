@@ -4,7 +4,7 @@ tradingview socket api for fetching real time prices.
 ## How to run
 
 ```
-git clone https://github.com/mohamadkhalaj/tradingView-API.git
+git clone https://github.com/IT2Topper0127/trading_bot_api.git
 cd tradingView-API
 pip3 install -r requirements.txt
 python3 tradingView.py
